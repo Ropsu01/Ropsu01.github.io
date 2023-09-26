@@ -2,38 +2,16 @@
 
 Welcome to my static website hosted on GitHub Pages. Here are some sections:
 
-## About Me
+## Sandbox
 
-I'm a developer who loves coding and learning new things.
+Text that is not a quote
 
-### Skills
+> "Live Love Laugh
 
-- Programming Languages:
-  - JavaScript
-  - Python
-  - Java
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
-- Web Technologies:
-  - HTML/CSS
-  - React
-  - Node.js
+This site was built using [GitHub Pages](https://pages.github.com/).
 
-## Blog
-
-- [**Post 1: Introduction to Markdown**](blog/post1.md)
-- [**Post 2: GitHub Pages**](blog/post2.md)
-
-## Contact
-
-You can reach me at [myemail@example.com](mailto:myemail@example.com).
-
-## Code Example
-
-Here's a JavaScript code snippet:
-
-```javascript
-function greet(name) {
-  console.log(`Hello, ${name}!`);
-}
-
-greet('John');
+- [x] Suihkuun
+- [ ] Nukkumaan
+- [ ] Aamulla töihin. :tada:
