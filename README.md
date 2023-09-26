@@ -14,9 +14,9 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 - [x] Suihkuun
 - [ ] Nukkumaan
-- [ ] Aamulla töihin.  :sauropod:
+- [ ] Aamulla töihin.  :shipit::
 
-## :sauropod: :sauropod:
+## :shipit: :shipit:
 
 ![smurf cat.](https://external-preview.redd.it/4ppDuV0vLwQ8ohnv6M1IDxoVJ3_JTM-3OlrQr1vaJQU.jpg?width=640&crop=smart&auto=webp&s=3b4435e777d44c06a4986b49e3e0e5f529cce5d5)
 
